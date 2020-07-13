@@ -12,6 +12,6 @@
         }
     ],
     "autoload": {
-        "psr-4": {"ShubhamSanket\\": ""}
+        "psr-4": {"shubhamkhedkar\\": ""}
     }
 }
