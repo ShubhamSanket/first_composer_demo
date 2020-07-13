@@ -1,5 +1,5 @@
 {
-    "name": "ShubhamSanket/first_composer_demo",
+    "name": "shubhamkhedkar/first_composer_demo",
     "description": "This package is to test.",
     "type": "library",
     "require": {
